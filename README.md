@@ -30,6 +30,26 @@ To prevent a site from having a shell uploaded onto it, a webmaster must always 
 
 * [Wso Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/wso.php)
 
+* [0byt3m1n1 Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/0byt3m1n1.php)
+
+* [Alfa Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/alfa.php)
+
+* [AK-47 Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/ak47shell.php)
+
+* [Indoxploit Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/indoxploit.php)
+
+* [Marion001 Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/ak47shell.php)
+
+* [Mini Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/mini.php)
+
+* [p0wny-shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/p0wny-shell.php)
+
+* [Sadrazam Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/sadrazam.php)
+
+* [Webadmin Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/webadmin.php)
+
+* [Wordpress Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/wordpress.php)
+
 ##### ASP Shell :
 
 * [Pouya Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/asp/pouya.asp)
