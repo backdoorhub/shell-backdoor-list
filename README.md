@@ -26,6 +26,8 @@ To prevent a site from having a shell uploaded onto it, a webmaster must always 
 
 ##### PHP Shell :
 
+* [Simple Shell](https://github.com/backdoorhub/shell-backdoor-list/blob/master/shell/php/simple-shell.php)
+
 * [B374K Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/b374k.php)
 
 * [C99 Shell](https://github.com/ismailtasdelen/shell-backdoor-list/blob/master/shell/php/c99.php)
